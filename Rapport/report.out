@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problem Statement}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Related work}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Gaussian Processes}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Overview}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Gaussian Processes reward functions}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Bandit's Algorithms}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{GP-UCB}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{GP-TS}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Kernel learning}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Experiments}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Compared methods}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Synthetic data}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Real data}{section.4}% 14
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Temperature data}{subsection.4.3}% 15
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Trafic data}{subsection.4.3}% 16
+\BOOKMARK [2][-]{subsection.4.4}{Analysis}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 18

@@ -1,0 +1,63 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Agrawal and Goyal(2013)]{DBLP:conf/icml/AgrawalG13}
+Shipra Agrawal and Navin Goyal.
+\newblock Thompson sampling for contextual bandits with linear payoffs.
+\newblock In \emph{Proceedings of the 30th International Conference on Machine
+  Learning, {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013}, pages 127--135,
+  2013.
+\newblock URL \url{http://jmlr.org/proceedings/papers/v28/agrawal13.html}.
+
+\bibitem[Auer(2003)]{Auer:2003:UCB:944919.944941}
+Peter Auer.
+\newblock Using confidence bounds for exploitation-exploration trade-offs.
+\newblock \emph{J. Mach. Learn. Res.}, 3:\penalty0 397--422, March 2003.
+\newblock ISSN 1532-4435.
+\newblock URL \url{http://dl.acm.org/citation.cfm?id=944919.944941}.
+
+\bibitem[Brochu et~al.(2009)Brochu, Cora, and {de Freitas}]{Brochu:2009}
+Eric Brochu, Vlad~M. Cora, and Nando {de Freitas}.
+\newblock A tutorial on {B}ayesian optimization of expensive cost functions,
+  with application to active user modeling and hierarchical reinforcement
+  learning.
+\newblock Technical Report TR-2009-23, Department of Computer Science,
+  University of British Columbia, November 2009.
+
+\bibitem[Kocsis and Szepesv\'{a}ri(2006)]{Kocsis:2006:BBM:2091602.2091633}
+Levente Kocsis and Csaba Szepesv\'{a}ri.
+\newblock Bandit based monte-carlo planning.
+\newblock In \emph{Proceedings of the 17th European Conference on Machine
+  Learning}, ECML'06, pages 282--293, Berlin, Heidelberg, 2006.
+  Springer-Verlag.
+\newblock ISBN 3-540-45375-X, 978-3-540-45375-8.
+\newblock \doi{10.1007/11871842_29}.
+\newblock URL \url{http://dx.doi.org/10.1007/11871842_29}.
+
+\bibitem[Rasmussen and Williams(2005)]{Rasmussen:2005:GPM:1162254}
+Carl~Edward Rasmussen and Christopher K.~I. Williams.
+\newblock \emph{Gaussian Processes for Machine Learning (Adaptive Computation
+  and Machine Learning)}.
+\newblock The MIT Press, 2005.
+\newblock ISBN 026218253X.
+
+\bibitem[Srinivas et~al.(2010)Srinivas, Krause, Kakade, and
+  Seeger]{DBLP:conf/icml/SrinivasKKS10}
+Niranjan Srinivas, Andreas Krause, Sham Kakade, and Matthias~W. Seeger.
+\newblock Gaussian process optimization in the bandit setting: No regret and
+  experimental design.
+\newblock In \emph{Proceedings of the 27th International Conference on Machine
+  Learning (ICML-10), June 21-24, 2010, Haifa, Israel}, pages 1015--1022, 2010.
+\newblock URL \url{http://www.icml2010.org/papers/422.pdf}.
+
+\bibitem[Thompson(1933)]{thompson1933}
+W.R. Thompson.
+\newblock On the likelihood that one unknown probability exceeds another in
+  view of the evidence of two samples.
+\newblock \emph{Biometrika}, 25\penalty0 (3--4):\penalty0 285--–294, 1933.
+
+\end{thebibliography}

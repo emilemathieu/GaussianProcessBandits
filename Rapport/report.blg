@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: plainnat.bst
+Database file #1: ref.bib
+A bad cross reference---entry "DBLP:conf/icml/SrinivasKKS10"
+refers to entry "DBLP:conf/icml/2010", which doesn't exist
+A bad cross reference---entry "DBLP:conf/icml/AgrawalG13"
+refers to entry "DBLP:conf/icml/2013", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/icml/2010"
+Warning--I didn't find a database entry for "DBLP:conf/icml/2013"
+You've used 7 entries,
+            2773 wiz_defined-function locations,
+            657 strings with 6835 characters,
+and the built_in function-call counts, 3565 in all, are:
+= -- 348
+> -- 152
+< -- 9
++ -- 52
+- -- 45
+* -- 261
+:= -- 527
+add.period$ -- 30
+call.type$ -- 7
+change.case$ -- 35
+chr.to.int$ -- 7
+cite$ -- 14
+duplicate$ -- 176
+empty$ -- 300
+format.name$ -- 58
+if$ -- 778
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 7
+newline$ -- 51
+num.names$ -- 28
+pop$ -- 68
+preamble$ -- 1
+purify$ -- 29
+quote$ -- 0
+skip$ -- 142
+stack$ -- 0
+substring$ -- 173
+swap$ -- 40
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 0
+while$ -- 33
+width$ -- 0
+write$ -- 116
+(There were 2 error messages)
